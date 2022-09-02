@@ -6,7 +6,7 @@ import com.hmsystem.model.Doctor;
 import com.hmsystem.model.Patient;
 import com.hmsystem.repository.DoctorRepository;
 import org.springframework.stereotype.Service;
-;import java.util.List;
+import java.util.List;
 
 @Service
 public class DoctorServiceImpl implements Doctorservice {
